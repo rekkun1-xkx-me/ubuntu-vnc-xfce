@@ -1,7 +1,7 @@
 {
   "name": "Docker",
   "description": "Heroku Docker",
-  "stack": "container"
+  "stack": "container",
   "keywords": [
     "rek"
   ],
