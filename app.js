@@ -8,7 +8,7 @@
   "repository": "https://github.com/rekkun1-xkx-me/",
   "buildpacks": [
     {
-      "url": "heroku/python"
+      "url": "https://github.com/dockhero/heroku-buildpack-docker-compose.git"
     }
   ]
 }
