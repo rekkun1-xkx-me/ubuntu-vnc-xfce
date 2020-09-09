@@ -10,8 +10,5 @@
     {
       "url": "heroku/python"
     }
-    {
-      "url": "heroku-community/inline"
-    }
   ]
 }
