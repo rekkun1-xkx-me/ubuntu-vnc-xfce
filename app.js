@@ -3,10 +3,13 @@
   "description": "Heroku Docker",
   "stack": "container",
   "keywords": [
-    "rek"
+    "vps"
   ],
   "repository": "https://github.com/rekkun1-xkx-me/",
   "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
     {
       "url": "heroku-community/inline"
     }
